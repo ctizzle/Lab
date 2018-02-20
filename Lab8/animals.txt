@@ -1,0 +1,6 @@
+name:Kitty,class:Lion,age:13,hcolor:blonde,region:Plains,roar:114
+name:Simba,class:Lion,age:8,hcolor:brown,region:Mountains,roar:150
+name:Zaboomafoo,class:Monkey,age:3,hcolor:black,region:Rainforest,intelligence:9
+name:Harambe,class:Monkey,age:17,hcolor:darkbrown,region:Zoo,intelligence:7
+name:Flounder,class:Fish,age:6,water:Salt,gills:side,scalelength:12
+name:Rusty,class:Frog,age:3,water:Fresh,gills:none,tadpoletime:2
