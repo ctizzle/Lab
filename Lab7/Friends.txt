@@ -1,0 +1,9 @@
+Austin,22,apassword,austin@email.com
+Junior,25,overwatch,junior@email.com
+Lauren,22,cheerleading,lauren@email.com
+Sridhar,57,director,sridhar@email.com
+Khaled,23,student,khaled@email.com
+austin@email.com,khaled@email.com
+junior@email.com,austin@email.com
+lauren@email.com,sridhar@email.com
+junior@email.com,lauren@email.com
